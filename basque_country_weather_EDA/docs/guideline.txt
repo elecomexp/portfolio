@@ -1,6 +1,6 @@
 1. Presentación último siglo, objetivo, hipótesis, datos.
 	- Calentamiento global en boca de todo el mundo
-	- Aumwn
+	- Aumento de temperatura media y de fenómenos adversos.
 	
 2. Dataset extenso, no-friendly, no homogéneos
 
@@ -29,4 +29,4 @@
 	- Límite de
 
 9. No es un mensaje catastrofista, animar a que os unáis a proyectos territoriales
-No está todo perdido, de momento podría ser reversible si los gobiernos
+	No está todo perdido, de momento podría ser reversible si los gobiernos actuan
