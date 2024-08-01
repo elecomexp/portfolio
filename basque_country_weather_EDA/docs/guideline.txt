@@ -1,0 +1,20 @@
+1. Presentación, objetivo, hipótesis, datos.
+2. Dataset extenso, no-friendly, no homogéneos
+3. Spoiler: llueve, ¿pero han cambiado las precipitaciones y algo más? Consideración de torrencial
+4. Agrupar datos por decadas, para ver los días de lluvia
+	- Gipuzkoa: heterogéneo, datos faltantes, pero mayores precipitaciones y... vencedor
+5. Agrupar dias extremos de temperatura. La pobre Araba... tiene las temperaturas más extremas
+	- Tendencia errática con los días fríos, y justificados por estar 400 metros más alto
+	- Los días de calor sí están aumentando 
+6. Análisis geográfico, patrón de relación entre provincias se conserva
+	- Lluvia  y días calurosos
+	- De altitud y días fríos
+	- Menor latitud y separaación del mar, menor clima templado
+	- Pero las precipitaciones siguen intactas
+7. Pendiente de la tendencia de temperatura con una regresión lineal simple de numpy
+	Temperaturas al alza. 0,035 ºC/año
+8. Pasar del clima oceánico al tropical no es buena noticia
+	- 1,8 ºC en 50 años
+	- Y un mes más de verano en el años
+	- Límite de 1.5
+	
