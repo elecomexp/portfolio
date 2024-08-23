@@ -1,4 +1,4 @@
-![bs_cover](docs/img/battleship_videogame_cover.jpg)
+![cover](docs/img/battleship_videogame_cover_english.jpg)
 
 # Battleship Video Game
 
@@ -17,9 +17,10 @@ The project is organized into the following main directories:
 
     - `class_Barco.py`: Defines the Barco (Ship) class, which represents the ships in the game. Each ship has a specific size and position on the grid. This class checks for hits and misses.
     - `class_Tablero.py`: Defines the Tablero (Board) class, which manages the 10x10 grid for each player. This class handles ship placement. 
-    - `main.py`: Contains the main game loop and logic that coordinates gameplay between the player and the AI. This is the entry point to run the game.
     - `functions.py`: Includes an utility function that assist with coordenates handle.
     - `variables.py`: Holds global variables used throughout the game, such as grid dimensions, the number of ships, and user's lifes.
+    - `main.py`: Contains the main game loop and logic that coordinates gameplay between the player and the AI. This is the entry point to run the game.
+
 
 ## Key Features
 
@@ -28,10 +29,10 @@ The project is organized into the following main directories:
 2. 10x10 Grid: Both players have a 10x10 grid where their ships are placed.
 
 3. Ship Placement: Ships are placed randomly on the grid. The ships are as follows:
-* 4 ships with a length of 1 cell
-* 3 ships with a length of 2 cells
-* 2 ships with a length of 3 cells
-* 1 ship with a length of 4 cells
+    * 4 ships with a length of 1 cell
+    * 3 ships with a length of 2 cells
+    * 2 ships with a length of 3 cells
+    * 1 ship with a length of 4 cells
 
 4. Turn-Based Gameplay: Both players take turns firing at each other's grid. The goal is to sink all of the opponent's ships. The first player to lose all their ships loses the game.
 
