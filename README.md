@@ -11,6 +11,9 @@ Below is a list of projects included in this portfolio. Click on the project nam
 ### [Basque Country Weather EDA](./basque_country_weather_EDA)
 - An exploratory data analysis of weather data from the Basque Country during the last century. Focused on temperature and precipitation trends and extreme weather events.
 
+### [Battleship Video Game](./battleship_videogame)
+- This project is a custom Python implementation of the classic board game "Battleship".
+
 ## Contributing
 
 If you have any suggestions or improvements, feel free to open an issue or submit a pull request. Your contributions are always welcome!
