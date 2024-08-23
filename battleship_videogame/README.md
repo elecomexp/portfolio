@@ -2,7 +2,7 @@
 
 # Battleship Video Game
 
-This project is a custom Python implementation of the classic game "Battleship".
+This project is a custom Python implementation of the classic board game "Battleship".
 
 ## Game Overview
 
