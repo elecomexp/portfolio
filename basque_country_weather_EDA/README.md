@@ -12,16 +12,16 @@ The data used in this analysis is obtained from the [AEMET OpenData API](https:/
 The project is organized into the following main directories:
 
 - `/docs`: Contains public presentations and the technical summary report.
-- `/src` : Contains the source code and data for the analysis, organized as follows:
+- `/src`: Contains the source code and data for the analysis, organized as follows:
 
   - `/data`: Raw and processed data files.
-  - `/img` : Images and figures used or generated during the analysis.
+  - `/img`: Images and figures used or generated during the analysis.
   - `/notebooks`: Jupyter Notebooks used for a first data exploration and analysis. **IMPORTANT:** This scripts may NOT work  properly as they were desingned just for the first studies, and some functions may be deprecated. All useful content is now presented in **get_aemet_data.ipynb** and **main.ipynb**.
   - `/utils`: Utility scripts and functions used in the project.
-  - `get_aemet_data.ipynb` : Jupyter Notebook for accessing AEMET API REST data.
-  - `main.ipynb` :  The main Jupyter Notebook for running the analysis.
-  - `requirements.txt` : List of dependencies required to run the project.
-  - `variables_spanish.py` : List of all weather variables contained in datasets (spanish). 
+  - `get_aemet_data.ipynb`: Jupyter Notebook for accessing AEMET API REST data.
+  - `main.ipynb`:  The main Jupyter Notebook for running the analysis.
+  - `requirements.txt`: List of dependencies required to run the project.
+  - `variables_spanish.py`: List of all weather variables contained in datasets (spanish). 
 
 ## Summary of the Analysis
 
