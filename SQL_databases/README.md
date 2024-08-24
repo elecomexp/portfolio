@@ -1,10 +1,10 @@
 # Database Management with SQLite3
 
-This project comprises two distinct deliverables focusing on database management and SQL practice.
+This project consists of two distinct components centered on database management and practical SQL applications.
 
 ## Part I - SQL Murder Mystery Game
 
-In this exercise, you will investigate a murder in SQL City. Through solving this case, you'll apply basic SQL concepts and queries. The engaging game, created by **Joon Park and Cathy He**, challenges your SQL skills in a fun, interactive way. For more details, please visit the official website: [SQL Murder Mystery](http://mystery.knightlab.com).
+In [this exercise](./murder_in_SQL_city), you will investigate a murder in SQL City. Through solving this case, you'll apply SQL concepts and queries. The engaging game, created by **Joon Park and Cathy He**, challenges your SQL skills in a fun, interactive way. For more details, please visit the official website: [SQL Murder Mystery](http://mystery.knightlab.com).
 
 ### Structure
 
@@ -16,12 +16,12 @@ The project is organized into three main components:
 
 ### Instructions
 
-* SQL Murder Mystery: Open the murder_in_SQL_city.ipynb file in Jupyter Notebook and follow the step-by-step guide to solving the case using SQL queries.
+* SQL Murder Mystery: Open the **murder_in_SQL_city.ipynb** file in Jupyter Notebook and follow the step-by-step guide to solving the case using SQL queries.
 
 
 ## Part II - Database Modeling: Creation and Maintenance of a Database with SQL
 
-In this section, you will design and manage a database model that stores information about suppliers and the parts they provide. This involves creating SQL tables, defining fields and data types, and establishing relationships between the entities in the database.
+In [this section](./SQL_database_design), you will design and manage a database model that stores information about suppliers and the parts they provide. This involves creating SQL tables, defining fields and data types, and establishing relationships between the entities in the database.
 
 ### Database Requirements
 
