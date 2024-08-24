@@ -1,0 +1,7 @@
+﻿pieza_id;nombre;color_id;precio;categoria_id
+1;Pieza_1;1;5;2
+2;Pieza_2;1;15;2
+3;Pieza_3;1;4;3
+4;Pieza_4;4;52;3
+5;Pieza_5;3;9;5
+6;Pieza_6;6;45;6
