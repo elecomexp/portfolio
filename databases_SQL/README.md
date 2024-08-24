@@ -1,4 +1,4 @@
-# Database Management with SQLite3
+# Databases Management with SQLite3
 
 This project consists of two distinct components centered on database management and practical SQL applications.
 
