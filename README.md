@@ -9,10 +9,20 @@ This is where I showcase all the personal programming projects I have worked on 
 Below is a list of projects included in this portfolio. Click on the project name to explore the details.
 
 ### [Basque Country Weather EDA](./basque_country_weather_EDA)
-- An exploratory data analysis of weather data from the Basque Country during the last century. Focused on temperature and precipitation trends and extreme weather events.
+
+An exploratory data analysis of weather data from the Basque Country during the last century. Focused on temperature and precipitation trends and extreme weather events.
 
 ### [Battleship Video Game](./battleship_videogame)
-- This project is a custom Python implementation of the classic board game "Battleship".
+
+This project is a custom Python implementation of the classic board game "Battleship".
+
+### [Database Management with SQLite3](./SQL_databases)
+
+This project consists of two distinct components centered on database management and practical SQL applications.
+
+* Part I - SQL Murder Mystery Game. You will investigate a murder in SQL City through applying SQL concepts and queries.
+* Part II - Database Modeling: Creation and Maintenance of a Database with SQL. You will design and manage a database model that stores information about suppliers and the parts they provide.
+
 
 ## Contributing
 
