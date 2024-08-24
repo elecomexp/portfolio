@@ -16,7 +16,7 @@ An exploratory data analysis of weather data from the Basque Country during the 
 
 This project is a custom Python implementation of the classic board game "Battleship".
 
-### [Database Management with SQLite3](./databases_SQL)
+### [Databases Management with SQLite3](./databases_SQL)
 
 This project consists of two distinct components centered on database management and practical SQL applications.
 
