@@ -16,12 +16,12 @@ An exploratory data analysis of weather data from the Basque Country during the 
 
 This project is a custom Python implementation of the classic board game "Battleship".
 
-### [Database Management with SQLite3](./SQL_databases)
+### [Database Management with SQLite3](./databases_SQL)
 
 This project consists of two distinct components centered on database management and practical SQL applications.
 
-* Part I - SQL Murder Mystery Game. You will investigate a murder in SQL City through applying SQL concepts and queries.
-* Part II - Database Modeling: Creation and Maintenance of a Database with SQL. You will design and manage a database model that stores information about suppliers and the parts they provide.
+* Part I - **SQL Murder Mystery Game**. You will investigate a murder in SQL City through applying SQL concepts and queries.
+* Part II - **Database Modeling**. Creation and Maintenance of a Database with SQL. You will design and manage a database model that stores information about suppliers and the parts they provide.
 
 
 ## Contributing
