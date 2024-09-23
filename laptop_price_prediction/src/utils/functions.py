@@ -1,4 +1,9 @@
-def kaggle_checker(df_to_submit, path='./submissions/submission_lander.csv'):
+import pandas as pd
+import urllib.request
+
+from PIL import Image
+
+def kaggle_checker(df_to_submit, path, sample=pd.read_csv(r'./data/sample_submission.csv')):
     """
     Esta función se asegura de que tu submission tenga la forma requerida por Kaggle.
     
@@ -18,9 +23,9 @@ def kaggle_checker(df_to_submit, path='./submissions/submission_lander.csv'):
         if df_to_submit.columns.all() == sample.columns.all():
             if df_to_submit.laptop_ID.all() == sample.laptop_ID.all():
                 print("You're ready to submit!")
-                submission.to_csv(path, index=False) #muy importante el index = False
-                urllib.request.urlretrieve("https://www.mihaileric.com/static/evaluation-meme-e0a350f278a36346e6d46b139b1d0da0-ed51e.jpg", "../img/gfg.png")     
-                img = Image.open("gfg.png")
+                df_to_submit.to_csv(path, index=False) #muy importante el index = False
+                urllib.request.urlretrieve("https://www.mihaileric.com/static/evaluation-meme-e0a350f278a36346e6d46b139b1d0da0-ed51e.jpg", "./img/gfg.png")     
+                img = Image.open("./img/gfg.png")
                 img.show()   
             else:
                 print("Check the ids and try again")
