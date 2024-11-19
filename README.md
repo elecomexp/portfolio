@@ -16,6 +16,10 @@ An exploratory data analysis of weather data from the Basque Country during the 
 
 This project is a custom Python implementation of the classic board game "Battleship".
 
+### [Heart Disease Clasifier](./heart_disease_classifier)
+
+Implementation of a Machine Learning model to predict the likelihood of a heart attack using various features such as medical history, lifestyle habits, and demographics.
+
 ### [Databases Management with SQLite3](./databases_SQL)
 
 This project consists of two distinct components centered on database management and practical SQL applications.
