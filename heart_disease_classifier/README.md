@@ -32,6 +32,7 @@ heart_disease_classifier/
 │   └── utils/            # Utility functions (data processing, model setup, etc.)
 │   └── train.py          # Main script for training models
 │
+├── .gitignore            # Specifies files and directories ignored by Git
 ├── README.md             # Main documentation for the project
 └── requirements.txt      # Python dependencies
 ```
@@ -40,7 +41,7 @@ heart_disease_classifier/
 
 This project follows a comprehensive process to develop a predictive model for a medical dataset, starting with data download and an in-depth exploration to understand its characteristics. An important aspect of this analysis was handling an **imbalanced target variable**, which is crucial to ensure fair detection of positive and negative cases. Each stage of the project is documented and can be followed step-by-step in the provided numbered [Jupyter Notebooks](./src/notebooks) (from nb00 to nb04), offering a clear guide from data preparation to final model evaluation.
 
-Feature selection was guided a combination of an EDA, RFECV (Recursive Feature Elimination with Cross-Validation) and the expertise of the cardiologist [María Davó Jimémez](https://www.linkedin.com/in/mar%C3%ADa-dav%C3%B3-jim%C3%A9nez-b63371233/) from [Northwestern University](https://www.northwestern.edu/) (Chicago, IL)., ensuring that only the most relevant predictors for the target condition were retained. Many different models have been tested, but only two (with the highest initial performance metrics) were further optimized by hyperparameter tuning: [LGBMClassifier](https://lightgbm.readthedocs.io/en/latest/pythonapi/lightgbm.LGBMClassifier.html) and [CatBoostClassifier](https://catboost.ai/en/docs/concepts/python-reference_catboostclassifier).
+Feature selection was guided by a combination of exploratory data analysis (EDA), Recursive Feature Elimination with Cross-Validation (RFECV), and the expertise of cardiologist [María Davó Jiménez](https://www.linkedin.com/in/mar%C3%ADa-dav%C3%B3-jim%C3%A9nez-b63371233/) from [Northwestern University](https://www.northwestern.edu/) (Chicago, IL). This approach ensured that only the most relevant predictors for the target condition were retained. Many different models have been tested, but only two (with the highest initial performance metrics) were further optimized by hyperparameter tuning: [LGBMClassifier](https://lightgbm.readthedocs.io/en/latest/pythonapi/lightgbm.LGBMClassifier.html) and [CatBoostClassifier](https://catboost.ai/en/docs/concepts/python-reference_catboostclassifier).
 
 In real-world healthcare, both True Positives (TP) and True Negatives (TN) are crucial:
 
