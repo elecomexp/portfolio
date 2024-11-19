@@ -28,7 +28,7 @@ heart_disease_classifier/
 │   │   └── raw/          # Raw data files
 │   ├── img/              # Images related to the project
 │   ├── models/           # Trained models saved in .pkl (notebooks) or .joblib (train.py)
-│   ├── notebooks/        # Jupyter Notebooks for analysis and experimentation
+│   ├── notebooks/        # Jupyter Notebooks for analysis and experimentation (numbered)
 │   └── utils/            # Utility functions (data processing, model setup, etc.)
 │   └── train.py          # Main script for training models
 │
@@ -38,7 +38,7 @@ heart_disease_classifier/
 
 ## Summary of the Analysis
 
-This project follows a comprehensive process to develop a predictive model for a medical dataset, starting with data download and an in-depth exploration to understand its characteristics. An important aspect of this analysis was handling an **imbalanced target variable**, which is crucial to ensure fair detection of positive and negative cases. Each stage of the project is documented and can be followed step-by-step in the provided numbered [Jupyter Notebooks](./notebooks) (from nb00 to nb04), offering a clear guide from data preparation to final model evaluation.
+This project follows a comprehensive process to develop a predictive model for a medical dataset, starting with data download and an in-depth exploration to understand its characteristics. An important aspect of this analysis was handling an **imbalanced target variable**, which is crucial to ensure fair detection of positive and negative cases. Each stage of the project is documented and can be followed step-by-step in the provided numbered [Jupyter Notebooks](./src/notebooks) (from nb00 to nb04), offering a clear guide from data preparation to final model evaluation.
 
 Feature selection was guided a combination of an EDA, RFECV (Recursive Feature Elimination with Cross-Validation) and the expertise of the cardiologist [María Davó Jimémez](https://www.linkedin.com/in/mar%C3%ADa-dav%C3%B3-jim%C3%A9nez-b63371233/) from [Northwestern University](https://www.northwestern.edu/) (Chicago, IL)., ensuring that only the most relevant predictors for the target condition were retained. Many different models have been tested, but only two (with the highest initial performance metrics) were further optimized by hyperparameter tuning: [LGBMClassifier](https://lightgbm.readthedocs.io/en/latest/pythonapi/lightgbm.LGBMClassifier.html) and [CatBoostClassifier](https://catboost.ai/en/docs/concepts/python-reference_catboostclassifier).
 
@@ -62,7 +62,7 @@ Heart Attack Classification Report:
 weighted avg       0.94      0.80      0.85     49205
 ```
 
-All the steps from the Notebooks have been unified into the `train.py` script, which provides a streamlined and efficient process for model training. This script is ready for future production deployment, encapsulating the entire workflow and enabling easy integration with other systems.
+All the steps from the Notebooks have been unified into the [train.py](./src/train.py) script, which provides a streamlined and efficient process for model training. This script is ready for future production deployment, encapsulating the entire workflow and enabling easy integration with other systems.
 
 ## Instalation
 
@@ -76,11 +76,11 @@ pip install -r requirements.txt
 
 1. **Notebooks**:
 
-The [Notebooks directory](./notebooks) contains Jupyter Notebooks for analysis, model validation, and visualizations. They can be followed step-by-step by the provided numeration (from nb00 to nb04).
+The [Notebooks directory](./src/notebooks) contains Jupyter Notebooks for analysis, model validation, and visualizations. They can be followed step-by-step by the provided numeration (from nb00 to nb04).
 
 2. **Training the model**.
 
-To train a model, run the `train.py` script. The script accepts command-line arguments to specify the model type (lgbm or catboost), whether to tune hyperparameters, and the output filename for the saved model.
+To train a model, run the [train.py](./src/train.py) script. The script accepts command-line arguments to specify the model type (lgbm or catboost), whether to tune hyperparameters, and the output filename for the saved model.
 
 
 ```bash
