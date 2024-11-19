@@ -16,9 +16,9 @@ An exploratory data analysis of weather data from the Basque Country during the 
 
 This project is a custom Python implementation of the classic board game "Battleship".
 
-### [Heart Disease Clasifier](./heart_disease_classifier)
+### [California Housing Prices](./california_housing_prices)
 
-Implementation of a Machine Learning model to predict the likelihood of a heart attack using various features such as medical history, lifestyle habits, and demographics.
+This project focuses on predicting California housing prices using supervised Machine Learning models and clustering properties with KMeans. The implementation emphasizes the use of pipelines to streamline preprocessing, modeling, and analysis.
 
 ### [Databases Management with SQLite3](./databases_SQL)
 
@@ -27,6 +27,9 @@ This project consists of two distinct components centered on database management
 * Part I - **SQL Murder Mystery Game**. You will investigate a murder in SQL City through applying SQL concepts and queries.
 * Part II - **Database Modeling**. Creation and Maintenance of a Database with SQL. You will design and manage a database model that stores information about suppliers and the parts they provide.
 
+### [Heart Disease Clasifier](./heart_disease_classifier)
+
+Implementation of a Machine Learning model to predict the likelihood of a heart attack using various features such as medical history, lifestyle habits, and demographics.
 
 ## Contributing
 
