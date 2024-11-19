@@ -107,7 +107,7 @@ if __name__ == "__main__":
     X_train, y_train = load_data()
     le, y_train_encoded = label_encoder(y_train)
 
-    # fit time stimation
+    # fit time estimation
     time_init = time()
     # set up GridSearch if tuning is specified
     if args.tune:
@@ -124,7 +124,7 @@ if __name__ == "__main__":
         print('>>> Model training completed with default parameters.')     
          
     time_end = (time() - time_init) / 60 
-    print(f'>>> Fitting time: {round(time_end, 2)} minutes')
+    print(f'>>> Fitting time: {round(time_end, 2)} minutes.')
 
     # save the trained model
     joblib.dump(best_model, output_filename)
