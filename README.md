@@ -27,7 +27,7 @@ This project consists of two distinct components centered on database management
 * Part I - **SQL Murder Mystery Game**. You will investigate a murder in SQL City through applying SQL concepts and queries.
 * Part II - **Database Modeling**. Creation and Maintenance of a Database with SQL. You will design and manage a database model that stores information about suppliers and the parts they provide.
 
-### [Heart Disease Clasifier](./heart_disease_classifier)
+### [Heart Disease Classifier](./heart_disease_classifier)
 
 Implementation of a Machine Learning model to predict the likelihood of a heart attack using various features such as medical history, lifestyle habits, and demographics.
 
