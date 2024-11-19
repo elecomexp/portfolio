@@ -1,0 +1,33 @@
+Slide 1
+Título y agradecimientos.
+
+Slide 2
+Enfermedades cardiacas en EEUU, de dónde son los datos, la importancia que suponen estos.
+
+Slide 3
+Objetivos del proyecto de ML.
+
+Slide 4
+Adquisición de datos: BRFSS. Para este proyecto un set "reducido" de usuario de Kaggle que los tiene en su repo de GitHub.
+
+Slide 5
+Mini-EDA no muy porfundo porque no es el objetivo de la presentación.
+Target desbalanceado NO es un problema.
+El número de dientes puede estar relacionado con la conciencia de la salud, o el acceso a medicinas.
+Para algún modelo son importantes las distancias y estandarización.
+
+Slide 6
+Como he querido probar bastantes modelos hago transformaciones.
+La verdad es que los mejores resultados son del resultado de RFECV + cardióloga. Aunque todos eran buenos.
+
+Slide 7
+Optimizar Recall, probar sobre varios modelos base-line (ROC).
+
+Slide 8
+Optimización de los 2 modelos escogidos mediante Pipelines de imbalaced-Learning.
+
+Slide 9
+Valores muy buenos de Recall tanto para los TP como para los TN.
+
+Slide 10
+Futuro: implementar en un entorno de producción y poder cargar el modelo.
