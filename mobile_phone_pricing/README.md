@@ -19,7 +19,7 @@ The dataset used in this project is sourced from [Kaggle](https://www.kaggle.com
 ## Project Structure
 
 - **data/**: Folder containing the dataset files (CSV format).
-- **img/**: Folder containing the image files.
+- **img/**: Folder containing image files.
 - **notebooks**: Jupyter Notebooks used for analysis, model training, and evaluations.
 - **requirements.txt**: Python dependencies needed to run the project.
 
