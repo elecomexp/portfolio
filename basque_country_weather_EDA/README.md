@@ -20,8 +20,9 @@ The project is organized into the following main directories:
   - `/utils`: Utility scripts and functions used in the project.
   - `get_aemet_data.ipynb`: Jupyter Notebook for accessing AEMET API REST data.
   - `main.ipynb`:  The main Jupyter Notebook for running the analysis.
-  - `requirements.txt`: List of dependencies required to run the project.
-  - `variables_spanish.py`: List of all weather variables contained in datasets (spanish). 
+
+- `requirements.txt`: List of dependencies required to run the project.
+
 
 ## Summary of the Analysis
 
