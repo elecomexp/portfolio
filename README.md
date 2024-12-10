@@ -2,11 +2,15 @@
 
 Welcome to my portfolio repository!
 
-This is where I showcase all the personal programming projects I have worked on or am currently working on. Each project is stored in its own directory and includes all relevant code, data, and documentation.
+This is where I showcase all the personal programming projects I have worked on, or am currently working on. Each project is stored in its own directory and includes all relevant code, data, and documentation.
 
 ## Projects
 
-Below is a list of projects included in this portfolio. Click on the project name to explore the details.
+Below is a list of some of the projects included in this portfolio. Click on the project name to explore the details.
+
+### [API Iris Flower Model](https://github.com/elecomexp/api_iris_model)
+
+A simple lightweight RESTful API built with [Flask](https://flask.palletsprojects.com/en/stable/) for deploying a machine learning model on [PythonAnywhere](https://www.pythonanywhere.com/), trained with the Iris flower dataset. The API is hosted in https://elecomexp.pythonanywhere.com/, making it accessible from any device with an internet connection.
 
 ### [Basque Country Weather EDA](./basque_country_weather_EDA)
 
@@ -24,8 +28,8 @@ This project focuses on predicting California housing prices using supervised Ma
 
 This project consists of two distinct components centered on database management and practical SQL applications.
 
-* Part I - **SQL Murder Mystery Game**. You will investigate a murder in SQL City through applying SQL concepts and queries.
-* Part II - **Database Modeling**. Creation and Maintenance of a Database with SQL. You will design and manage a database model that stores information about suppliers and the parts they provide.
+* Part I - **SQL Murder Mystery Game**. You will investigate a murder in SQL City by applying SQL concepts and queries.
+* Part II - **Database Modeling**. Create and Maintain a Database with SQL. You will design and manage a database model that stores information about suppliers and the parts they provide.
 
 ### [Heart Disease Classifier](./heart_disease_classifier)
 
