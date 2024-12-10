@@ -1,0 +1,11 @@
+# VS Code configuration
+.vscode/
+
+# Ignore virtual environments
+*venv*/
+
+# Ignore automatically generated files and directories
+__pycache__/
+
+# Catboost temporary files
+catboost_info/
