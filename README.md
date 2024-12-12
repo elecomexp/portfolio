@@ -10,7 +10,7 @@ Below is a list of some of the projects included in this portfolio. Click on the
 
 ### [API Iris Flower Model](https://github.com/elecomexp/api_iris_model)
 
-A simple lightweight RESTful API built with [Flask](https://flask.palletsprojects.com/en/stable/) for deploying a machine learning model on [PythonAnywhere](https://www.pythonanywhere.com/), trained with the Iris flower dataset. The API is hosted in https://elecomexp.pythonanywhere.com/, making it accessible from any device with an internet connection.
+A simple lightweight RESTful API built with Flask for deploying a machine learning model on PythonAnywhere, trained with the Iris flower dataset. The API is hosted in https://elecomexp.pythonanywhere.com/, making it accessible from any device with an internet connection.
 
 ### [Basque Country Weather EDA](./basque_country_weather_EDA)
 
