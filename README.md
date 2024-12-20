@@ -2,7 +2,7 @@
 
 Welcome to my portfolio repository!
 
-This is where I showcase all the personal programming projects I have worked on, or am currently working on. Each project is stored in its own directory and includes all relevant code, data, and documentation.
+This is where I showcase some personal programming projects I have worked on, or am currently working on. Each project is stored in its own directory (or repo) and includes all relevant code, data, and documentation.
 
 ## Projects
 
