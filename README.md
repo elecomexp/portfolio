@@ -12,7 +12,7 @@ Below is a list of some of the projects included in this portfolio. Click on the
 
 A simple lightweight RESTful API built with Flask for deploying a machine learning model on PythonAnywhere, trained on the Iris flower dataset. The API is hosted in https://elecomexp.pythonanywhere.com/, making it accessible from any device with an internet connection.
 
-### [Basque Country Weather EDA](./basque_country_weather_EDA)
+### [Basque Country Weather EDA](./basque_country_weather_eda)
 
 An exploratory data analysis of weather data from the Basque Country during the last century. Focused on temperature and precipitation trends and extreme weather events.
 
@@ -24,7 +24,7 @@ This project is a custom Python implementation of the classic board game "Battle
 
 This project focuses on predicting California housing prices using supervised Machine Learning models and clustering properties with KMeans. The implementation emphasizes the use of pipelines to streamline preprocessing, modeling, and analysis.
 
-### [Databases Management with SQLite3](./databases_SQL)
+### [Databases Management with SQLite3](./databases_sql)
 
 This project consists of two distinct components centered on database management and practical SQL applications.
 
