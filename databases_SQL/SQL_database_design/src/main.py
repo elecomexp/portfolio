@@ -1,7 +1,7 @@
 import pandas as pd
 import sqlite3
 
-from functions import intro_datos
+from utils.functions import intro_datos
 
 
 ##########################################################################################
