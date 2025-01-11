@@ -4,7 +4,7 @@ This project consists of two distinct components centered on database management
 
 ## Part I - SQL Murder Mystery Game
 
-In [this exercise](./murder_in_SQL_city), you will investigate a murder in SQL City. Through solving this case, you'll apply SQL concepts and queries. The engaging game, created by **Joon Park and Cathy He**, challenges your SQL skills in a fun, interactive way. For more details, please visit the official website: [SQL Murder Mystery](http://mystery.knightlab.com).
+In [Part I](./murder_in_sql_city), you will investigate a murder in SQL City. Through solving this case, you'll apply SQL concepts and queries. The engaging game, created by **Joon Park and Cathy He**, challenges your SQL skills in a fun, interactive way. For more details, please visit the official website: [SQL Murder Mystery](http://mystery.knightlab.com).
 
 ### Structure
 
@@ -21,7 +21,7 @@ The project is organized into three main components:
 
 ## Part II - Database Modeling: Creation and Maintenance of a Database with SQL
 
-In [this section](./SQL_database_design), you will design and manage a database model that stores information about suppliers and the parts they provide. This involves creating SQL tables, defining fields and data types, and establishing relationships between the entities in the database.
+In [Part II](./sql_database_design), you will design and manage a database model that stores information about suppliers and the parts they provide. This involves creating SQL tables, defining fields and data types, and establishing relationships between the entities in the database.
 
 ### Database Requirements
 
