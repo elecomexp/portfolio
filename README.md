@@ -2,7 +2,7 @@
 
 Welcome to my portfolio repository!
 
-This is where I showcase some personal programming projects I have worked on, or am currently working on. Each project is stored in its own directory (or repo) and includes all relevant code, data, and documentation.
+This is where I showcase some personal programming projects I have worked on or am currently working on. Each project is stored in its own directory (or repository) and includes all relevant code, data, and documentation.
 
 ## Projects
 
@@ -10,7 +10,7 @@ Below is a list of some of the projects included in this portfolio. Click on the
 
 ### [API Iris Flower Model](https://github.com/elecomexp/api_iris_model)
 
-A simple lightweight RESTful API built with Flask for deploying a machine learning model on PythonAnywhere, trained with the Iris flower dataset. The API is hosted in https://elecomexp.pythonanywhere.com/, making it accessible from any device with an internet connection.
+A simple lightweight RESTful API built with Flask for deploying a machine learning model on PythonAnywhere, trained on the Iris flower dataset. The API is hosted in https://elecomexp.pythonanywhere.com/, making it accessible from any device with an internet connection.
 
 ### [Basque Country Weather EDA](./basque_country_weather_EDA)
 
@@ -30,6 +30,10 @@ This project consists of two distinct components centered on database management
 
 * Part I - **SQL Murder Mystery Game**. You will investigate a murder in SQL City by applying SQL concepts and queries.
 * Part II - **Database Modeling**. Create and Maintain a Database with SQL. You will design and manage a database model that stores information about suppliers and the parts they provide.
+
+### [Diamonds Classifier with PySpark on DataBricks](./diamonds_big_data_pyspark/)
+
+This project demonstrates the use of **PySpark** in [DataBricks](https://www.databricks.com/) to classify diamonds based on their numerical and categorical features. It focuses on leveraging Big Data tools and techniques for Machine Learning tasks.
 
 ### [Heart Disease Classifier](./heart_disease_classifier)
 
