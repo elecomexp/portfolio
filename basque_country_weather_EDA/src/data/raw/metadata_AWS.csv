@@ -1,8 +1,0 @@
-id,descripcion,tipo_datos,requerido
-latitud,latitud de la estación,string,True
-provincia,provincia donde reside la estación,string,True
-indicativo,indicativo climatológico de la estación,string,True
-altitud,altitud de la estación ,string,True
-nombre,ubicación de la estación,string,True
-indsinop,Indicativo sinóptico,string,True
-longitud,longitud de la estación,string,True
