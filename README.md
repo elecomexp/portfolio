@@ -14,7 +14,7 @@ A simple lightweight RESTful API built with Flask for deploying a machine learni
 
 ### [Basque Country Weather EDA](./basque_country_weather_eda)
 
-An exploratory data analysis of weather data from the Basque Country during the last century. Focused on temperature and precipitation trends and extreme weather events.
+An Exploratory Data Analysis of weather data from the Basque Country during the last century. Focused on temperature, precipitation trends and extreme weather events.
 
 ### [Battleship Video Game](./battleship_videogame)
 
@@ -28,8 +28,8 @@ This project focuses on predicting California housing prices using supervised Ma
 
 This project consists of two distinct components centered on database management and practical SQL applications.
 
-* Part I - **SQL Murder Mystery Game**. You will investigate a murder in SQL City by applying SQL concepts and queries.
-* Part II - **Database Modeling**. Create and Maintain a Database with SQL. You will design and manage a database model that stores information about suppliers and the parts they provide.
+* SQL Murder Mystery Game - You will investigate a murder in SQL City by applying SQL concepts and queries.
+* Database Modeling - Create and Maintain a Database with SQL. You will design and manage a database model that stores information about suppliers and the parts they provide.
 
 ### [Diamonds Classifier with PySpark on DataBricks](./diamonds_big_data_pyspark/)
 
