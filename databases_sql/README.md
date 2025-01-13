@@ -52,7 +52,7 @@ We need to track the parts supplied by each provider, noting both the quantity a
 
 The following diagram represents the structure of the database (in spanish because db requierements):
 
-![db_structure](SQL_database_design/img/data_structure.png)
+![db_structure](./sql_database_design/img/data_structure.png)
 
 ### Project Structure
 
