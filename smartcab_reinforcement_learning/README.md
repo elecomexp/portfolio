@@ -2,6 +2,8 @@
 
 Este proyecto implementa un sistema de taxi autónomo (SmartCab) que utiliza algoritmos de aprendizaje por refuerzo para aprender a recoger y dejar pasajeros de manera eficiente y segura en un entorno simulado. El entorno ha sido desarrollado utilizando la librería [Gymnasium](https://gymnasium.farama.org/index.html) de [OpenAI](https://openai.com/).
 
+<img src='./src/img/smartcab_map.png' width='250' />
+
 ## Objetivo
 
 El objetivo del SmartCab es realizar las siguientes tareas:
@@ -9,6 +11,8 @@ El objetivo del SmartCab es realizar las siguientes tareas:
 - Recoger pasajeros en ubicaciones designadas.
 - Dejar a los pasajeros en su destino correcto.
 - Optimizar el tiempo de traslado (evitando acciones inválidas).
+
+
 
 ## Algoritmos Implementados
 
