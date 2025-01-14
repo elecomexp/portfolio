@@ -41,7 +41,7 @@ Implementation of a Machine Learning model to predict the likelihood of a heart 
 
 ### [SmartCab with Reinforcement Learning](./smartcab_reinforcement_learning/)
 
-A simulated autonomous taxi system built using Q-Learning, designed to optimize the transport of passengers. This project has been developed using [OpenAI's Gymnasium](https://gymnasium.farama.org/index.html).
+A simulated autonomous taxi system built using Q-Learning and designed to optimize the transport of passengers. This project has been developed using [OpenAI's Gymnasium](https://gymnasium.farama.org/index.html).
 
 ## Contributing
 
