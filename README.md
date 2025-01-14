@@ -39,6 +39,10 @@ This project demonstrates the use of **PySpark** in [DataBricks](https://www.dat
 
 Implementation of a Machine Learning model to predict the likelihood of a heart attack using various features such as medical history, lifestyle habits, and demographics.
 
+### [SmartCab with Reinforcement Learning](./smartcab_reinforcement_learning/)
+
+A simulated autonomous taxi system built using Q-Learning, designed to optimize the transport of passengers. This project has been developed using [OpenAI's Gymnasium](https://gymnasium.farama.org/index.html).
+
 ## Contributing
 
 If you have any suggestions or improvements, feel free to open an issue or submit a pull request. Your contributions are always welcome!
