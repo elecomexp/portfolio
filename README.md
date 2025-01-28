@@ -35,6 +35,14 @@ This project demonstrates the use of **PySpark** in [DataBricks](https://www.dat
 
 Implementation of a Machine Learning model to predict the likelihood of a heart attack using various features such as medical history, lifestyle habits, and demographics.
 
+### [Laptop Price Predictor](./laptop_price_predictor)
+
+This project develops a machine learning model to predict laptop prices based on features like specifications, brand, and storage, helping a retailer set optimal prices to improve sales and profitability.
+
+### [Mobile Phone Pricing](./mobile_phone_pricing)
+
+This project uses machine learning to analyze the market and predict mobile phone prices based on factors like RAM, storage, and screen resolution, helping a company set competitive prices for future models.
+
 ### [SmartCab with Reinforcement Learning](./smartcab_reinforcement_learning/)
 
 A simulated autonomous taxi system built using Q-Learning and designed to optimize the transport of passengers. This project has been developed using [OpenAI's Gymnasium](https://gymnasium.farama.org/index.html).
