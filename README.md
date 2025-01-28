@@ -35,6 +35,10 @@ This project consists of two distinct components centered on database management
 
 This project demonstrates the use of **PySpark** in [DataBricks](https://www.databricks.com/) to classify diamonds based on their numerical and categorical features. It focuses on leveraging Big Data tools and techniques for Machine Learning tasks.
 
+### [Gamma Rays Scattering](https://github.com/elecomexp/gamma_rays_scattering)
+
+This project studies Gamma Ray transport through a medium, exploring radiation-matter interactions. Key coefficients such as absorption, backscattering and transmission are defined, then Monte Carlo simulations are used to predict the effects of Gamma Ray interactions.
+
 ### [Heart Disease Classifier](./heart_disease_classifier)
 
 Implementation of a Machine Learning model to predict the likelihood of a heart attack using various features such as medical history, lifestyle habits, and demographics.
