@@ -37,7 +37,7 @@ This project demonstrates the use of **PySpark** in [DataBricks](https://www.dat
 
 ### [Gamma Rays Scattering](https://github.com/elecomexp/gamma_rays_scattering)
 
-This project studies Gamma Ray transport through a medium, exploring radiation-matter interactions. Key coefficients such as absorption, backscattering and transmission are defined, then Monte Carlo simulations are used to predict the effects of Gamma Ray interactions.
+This project uses Monte Carlo simulations to study Gamma Ray transport through a medium, focusing on radiation-matter interactions and key coefficients like absorption, backscattering, and transmission.
 
 ### [Heart Disease Classifier](./heart_disease_classifier)
 
