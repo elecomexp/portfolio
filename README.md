@@ -6,7 +6,7 @@ This is where I showcase some personal programming projects I have worked on or 
 
 ## Projects
 
-Below is a list of some of the projects included in this portfolio. Click on the project name to explore the details.
+Below is a list of some of the projects included in this portfolio or **other repositories**. Click on the project name to explore the details.
 
 ### [API Iris Flower Model](https://github.com/elecomexp/api_iris_model)
 
