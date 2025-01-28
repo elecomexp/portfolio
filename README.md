@@ -4,13 +4,9 @@ Welcome to my portfolio repository!
 
 This is where I showcase some personal programming projects I have worked on or am currently working on. Each project is stored in its own directory (or repository) and includes all relevant code, data, and documentation.
 
-## Projects
-
 Below is a list of some of the projects included in this portfolio or **other repositories**. Click on the project name to explore the details.
 
-### [API Iris Flower Model](https://github.com/elecomexp/api_iris_model)
-
-A simple lightweight RESTful API built with Flask for deploying a machine learning model on PythonAnywhere, trained on the Iris flower dataset. The API is hosted in https://elecomexp.pythonanywhere.com/, making it accessible from any device with an internet connection.
+## Projects in this repository
 
 ### [Basque Country Weather EDA](./basque_country_weather_eda)
 
@@ -35,10 +31,6 @@ This project consists of two distinct components centered on database management
 
 This project demonstrates the use of **PySpark** in [DataBricks](https://www.databricks.com/) to classify diamonds based on their numerical and categorical features. It focuses on leveraging Big Data tools and techniques for Machine Learning tasks.
 
-### [Gamma Rays Scattering](https://github.com/elecomexp/gamma_rays_scattering)
-
-This project uses Monte Carlo simulations to study Gamma Ray transport through a medium, focusing on radiation-matter interactions and key coefficients like absorption, backscattering, and transmission.
-
 ### [Heart Disease Classifier](./heart_disease_classifier)
 
 Implementation of a Machine Learning model to predict the likelihood of a heart attack using various features such as medical history, lifestyle habits, and demographics.
@@ -46,6 +38,20 @@ Implementation of a Machine Learning model to predict the likelihood of a heart 
 ### [SmartCab with Reinforcement Learning](./smartcab_reinforcement_learning/)
 
 A simulated autonomous taxi system built using Q-Learning and designed to optimize the transport of passengers. This project has been developed using [OpenAI's Gymnasium](https://gymnasium.farama.org/index.html).
+
+## Projects in other repositories
+
+### [API Iris Flower Model](https://github.com/elecomexp/api_iris_model)
+
+A simple lightweight RESTful API built with Flask for deploying a machine learning model on PythonAnywhere, trained on the Iris flower dataset. The API is hosted in https://elecomexp.pythonanywhere.com/, making it accessible from any device with an internet connection.
+
+### [Gamma Rays Scattering](https://github.com/elecomexp/gamma_rays_scattering)
+
+This project uses Monte Carlo simulations to study Gamma Ray transport through a medium, focusing on radiation-matter interactions and key coefficients like absorption, backscattering, and transmission.
+
+### [Smart Learn Toolbox](https://github.com/elecomexp/smart_learn_toolbox)
+
+Utility functions and tools for Data Science, Machine Learning and Deep Learning projects. This collection is continuously evolving and serves as a reference and toolbox for personal and experimental use.
 
 ## Contributing
 
