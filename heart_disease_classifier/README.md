@@ -29,7 +29,7 @@ heart_disease_classifier/
 │   ├── img/              # Images related to the project
 │   ├── models/           # Trained models saved in .pkl (notebooks) or .joblib (train.py)
 │   ├── notebooks/        # Jupyter Notebooks for analysis and experimentation (numbered)
-│   └── utils/            # Utility functions (data processing, model setup, etc.)
+│   ├── utils/            # Utility functions (data processing, model setup, etc.)
 │   └── train.py          # Main script for training models
 │
 ├── .gitignore            # Specifies files and directories ignored by Git
