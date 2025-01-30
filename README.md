@@ -53,6 +53,10 @@ A simulated autonomous taxi system built using Q-Learning and designed to optimi
 
 A simple lightweight RESTful API built with Flask for deploying a machine learning model on PythonAnywhere, trained on the Iris flower dataset. The API is hosted in https://elecomexp.pythonanywhere.com/, making it accessible from any device with an internet connection.
 
+### [Deep Learning: Images](https://github.com/elecomexp/deep_learning_images)
+
+This repository contains a collection of Jupyter Notebooks exploring Deep Learning Techniques, including Convolutional Neural Networks (CNNs), Transfer Learning, and Fine-Tuning with various image datasets.
+
 ### [Gamma Rays Scattering](https://github.com/elecomexp/gamma_rays_scattering)
 
 This project uses Monte Carlo simulations to study Gamma Ray transport through a medium, focusing on radiation-matter interactions and key coefficients like absorption, backscattering, and transmission.
