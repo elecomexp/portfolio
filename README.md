@@ -2,50 +2,29 @@
 
 Welcome to my portfolio repository!
 
-This is where I showcase some personal programming projects I have worked on or am currently working on. Each project is stored in its own directory (or repository) and includes all relevant code, data, and documentation.
+This is where I showcase some personal programming projects I have worked on or am currently working on. Each project is stored in its own directory or repository, and includes all relevant code, data, and documentation.
 
-Below is a list of some of the projects included in this portfolio or **other repositories**. Click on the project name to explore the details.
+Below is a list of some of the projects included in **this portfolio** or **other repositories**. Click on the project name to explore the details.
 
 ## Projects in this repository
 
-### [Basque Country Weather EDA](./basque_country_weather_eda)
+- [Basque Country Weather EDA](./basque_country_weather_eda) : An Exploratory Data Analysis of weather data from the Basque Country during the last century. Focused on temperature, precipitation trends and extreme weather events.
 
-An Exploratory Data Analysis of weather data from the Basque Country during the last century. Focused on temperature, precipitation trends and extreme weather events.
+- [Battleship Video Game](./battleship_videogame) : This project is a custom Python implementation of the classic board game "Battleship".
 
-### [Battleship Video Game](./battleship_videogame)
+- [California Housing Prices](./california_housing_prices) : This project focuses on predicting California housing prices using supervised Machine Learning models and clustering properties with KMeans. The implementation emphasizes the use of pipelines to streamline preprocessing, modeling, and analysis.
 
-This project is a custom Python implementation of the classic board game "Battleship".
+- [Databases Management with SQLite3](./databases_sql) : This project consists of two distinct components centered on database management and practical SQL applications. One involves solving a murder mystery game in SQL City using queries, while the other focuses on designing and managing a database model for suppliers and the parts they provide.
 
-### [California Housing Prices](./california_housing_prices)
+[Diamonds Classifier with PySpark on DataBricks](./diamonds_big_data_pyspark/) : This project demonstrates the use of **PySpark** in [DataBricks](https://www.databricks.com/) to classify diamonds based on their numerical and categorical features. It focuses on leveraging Big Data tools and techniques for Machine Learning tasks.
 
-This project focuses on predicting California housing prices using supervised Machine Learning models and clustering properties with KMeans. The implementation emphasizes the use of pipelines to streamline preprocessing, modeling, and analysis.
+[Heart Disease Classifier](./heart_disease_classifier) : Implementation of a Machine Learning model to predict the likelihood of a heart attack using various features such as medical history, lifestyle habits, and demographics.
 
-### [Databases Management with SQLite3](./databases_sql)
+[Laptop Price Predictor](./laptop_price_predictor) : This project develops a machine learning model to predict laptop prices based on features like specifications, brand, and storage, helping a retailer set optimal prices to improve sales and profitability.
 
-This project consists of two distinct components centered on database management and practical SQL applications.
+[Mobile Phone Pricing](./mobile_phone_pricing) : This project uses machine learning to analyze the market and predict mobile phone prices based on factors like RAM, storage, and screen resolution, helping a company set competitive prices for future models.
 
-* SQL Murder Mystery Game - You will investigate a murder in SQL City by applying SQL concepts and queries.
-* Database Modeling - Create and Maintain a Database with SQL. You will design and manage a database model that stores information about suppliers and the parts they provide.
-
-### [Diamonds Classifier with PySpark on DataBricks](./diamonds_big_data_pyspark/)
-
-This project demonstrates the use of **PySpark** in [DataBricks](https://www.databricks.com/) to classify diamonds based on their numerical and categorical features. It focuses on leveraging Big Data tools and techniques for Machine Learning tasks.
-
-### [Heart Disease Classifier](./heart_disease_classifier)
-
-Implementation of a Machine Learning model to predict the likelihood of a heart attack using various features such as medical history, lifestyle habits, and demographics.
-
-### [Laptop Price Predictor](./laptop_price_predictor)
-
-This project develops a machine learning model to predict laptop prices based on features like specifications, brand, and storage, helping a retailer set optimal prices to improve sales and profitability.
-
-### [Mobile Phone Pricing](./mobile_phone_pricing)
-
-This project uses machine learning to analyze the market and predict mobile phone prices based on factors like RAM, storage, and screen resolution, helping a company set competitive prices for future models.
-
-### [SmartCab with Reinforcement Learning](./smartcab_reinforcement_learning/)
-
-A simulated autonomous taxi system built using Q-Learning and designed to optimize the transport of passengers. This project has been developed using [OpenAI's Gymnasium](https://gymnasium.farama.org/index.html).
+[SmartCab with Reinforcement Learning](./smartcab_reinforcement_learning/) : A simulated autonomous taxi system built using Q-Learning and designed to optimize the transport of passengers. This project has been developed using [OpenAI's Gymnasium](https://gymnasium.farama.org/index.html).
 
 ## Projects in other repositories
 
