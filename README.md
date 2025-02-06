@@ -16,25 +16,25 @@ Below is a list of some of the projects included in **this portfolio** or **othe
 
 - [Databases Management with SQLite3](./databases_sql) : This project consists of two distinct components centered on database management and practical SQL applications. One involves solving a murder mystery game in SQL City using queries, while the other focuses on designing and managing a database model for suppliers and the parts they provide.
 
-[Diamonds Classifier with PySpark on DataBricks](./diamonds_big_data_pyspark/) : This project demonstrates the use of **PySpark** in [DataBricks](https://www.databricks.com/) to classify diamonds based on their numerical and categorical features. It focuses on leveraging Big Data tools and techniques for Machine Learning tasks.
+- [Diamonds Classifier with PySpark on DataBricks](./diamonds_big_data_pyspark/) : This project demonstrates the use of **PySpark** in [DataBricks](https://www.databricks.com/) to classify diamonds based on their numerical and categorical features. It focuses on leveraging Big Data tools and techniques for Machine Learning tasks.
 
-[Heart Disease Classifier](./heart_disease_classifier) : Implementation of a Machine Learning model to predict the likelihood of a heart attack using various features such as medical history, lifestyle habits, and demographics.
+- [Heart Disease Classifier](./heart_disease_classifier) : Implementation of a Machine Learning model to predict the likelihood of a heart attack using various features such as medical history, lifestyle habits, and demographics.
 
-[Laptop Price Predictor](./laptop_price_predictor) : This project develops a machine learning model to predict laptop prices based on features like specifications, brand, and storage, helping a retailer set optimal prices to improve sales and profitability.
+- [Laptop Price Predictor](./laptop_price_predictor) : This project develops a machine learning model to predict laptop prices based on features like specifications, brand, and storage, helping a retailer set optimal prices to improve sales and profitability.
 
-[Mobile Phone Pricing](./mobile_phone_pricing) : This project uses machine learning to analyze the market and predict mobile phone prices based on factors like RAM, storage, and screen resolution, helping a company set competitive prices for future models.
+- [Mobile Phone Pricing](./mobile_phone_pricing) : This project uses machine learning to analyze the market and predict mobile phone prices based on factors like RAM, storage, and screen resolution, helping a company set competitive prices for future models.
 
-[SmartCab with Reinforcement Learning](./smartcab_reinforcement_learning/) : A simulated autonomous taxi system built using Q-Learning and designed to optimize the transport of passengers. This project has been developed using [OpenAI's Gymnasium](https://gymnasium.farama.org/index.html).
+- [SmartCab with Reinforcement Learning](./smartcab_reinforcement_learning/) : A simulated autonomous taxi system built using Q-Learning and designed to optimize the transport of passengers. This project has been developed using [OpenAI's Gymnasium](https://gymnasium.farama.org/index.html).
 
 ## Projects in other repositories
 
-[API Iris Flower Model](https://github.com/elecomexp/api_iris_model) : A simple lightweight RESTful API built with Flask for deploying a machine learning model on PythonAnywhere, trained on the Iris flower dataset. The API is hosted in https://elecomexp.pythonanywhere.com/, making it accessible from any device with an internet connection.
+- [API Iris Flower Model](https://github.com/elecomexp/api_iris_model) : A simple lightweight RESTful API built with Flask for deploying a machine learning model on PythonAnywhere, trained on the Iris flower dataset. The API is hosted in https://elecomexp.pythonanywhere.com/, making it accessible from any device with an internet connection.
 
-[Deep Learning: Images](https://github.com/elecomexp/deep_learning_images) : This repository contains a collection of Jupyter Notebooks exploring Deep Learning Techniques, including Convolutional Neural Networks (CNNs), Transfer Learning, and Fine-Tuning with various image datasets.
+- [Deep Learning: Images](https://github.com/elecomexp/deep_learning_images) : This repository contains a collection of Jupyter Notebooks exploring Deep Learning Techniques, including Convolutional Neural Networks (CNNs), Transfer Learning, and Fine-Tuning with various image datasets.
 
-[Gamma Rays Scattering](https://github.com/elecomexp/gamma_rays_scattering) : This project uses Monte Carlo simulations to study Gamma Ray transport through a medium, focusing on radiation-matter interactions and key coefficients like absorption, backscattering, and transmission.
+- [Gamma Rays Scattering](https://github.com/elecomexp/gamma_rays_scattering) : This project uses Monte Carlo simulations to study Gamma Ray transport through a medium, focusing on radiation-matter interactions and key coefficients like absorption, backscattering, and transmission.
 
-[Smart Learn Toolbox](https://github.com/elecomexp/smart_learn_toolbox) : Utility functions and tools for Data Science, Machine Learning and Deep Learning projects. This collection is continuously evolving and serves as a reference and toolbox for personal and experimental use.
+- [Smart Learn Toolbox](https://github.com/elecomexp/smart_learn_toolbox) : Utility functions and tools for Data Science, Machine Learning and Deep Learning projects. This collection is continuously evolving and serves as a reference and toolbox for personal and experimental use.
 
 ## Contributing
 
