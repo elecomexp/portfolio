@@ -28,21 +28,13 @@ Below is a list of some of the projects included in **this portfolio** or **othe
 
 ## Projects in other repositories
 
-### [API Iris Flower Model](https://github.com/elecomexp/api_iris_model)
+[API Iris Flower Model](https://github.com/elecomexp/api_iris_model) : A simple lightweight RESTful API built with Flask for deploying a machine learning model on PythonAnywhere, trained on the Iris flower dataset. The API is hosted in https://elecomexp.pythonanywhere.com/, making it accessible from any device with an internet connection.
 
-A simple lightweight RESTful API built with Flask for deploying a machine learning model on PythonAnywhere, trained on the Iris flower dataset. The API is hosted in https://elecomexp.pythonanywhere.com/, making it accessible from any device with an internet connection.
+[Deep Learning: Images](https://github.com/elecomexp/deep_learning_images) : This repository contains a collection of Jupyter Notebooks exploring Deep Learning Techniques, including Convolutional Neural Networks (CNNs), Transfer Learning, and Fine-Tuning with various image datasets.
 
-### [Deep Learning: Images](https://github.com/elecomexp/deep_learning_images)
+[Gamma Rays Scattering](https://github.com/elecomexp/gamma_rays_scattering) : This project uses Monte Carlo simulations to study Gamma Ray transport through a medium, focusing on radiation-matter interactions and key coefficients like absorption, backscattering, and transmission.
 
-This repository contains a collection of Jupyter Notebooks exploring Deep Learning Techniques, including Convolutional Neural Networks (CNNs), Transfer Learning, and Fine-Tuning with various image datasets.
-
-### [Gamma Rays Scattering](https://github.com/elecomexp/gamma_rays_scattering)
-
-This project uses Monte Carlo simulations to study Gamma Ray transport through a medium, focusing on radiation-matter interactions and key coefficients like absorption, backscattering, and transmission.
-
-### [Smart Learn Toolbox](https://github.com/elecomexp/smart_learn_toolbox)
-
-Utility functions and tools for Data Science, Machine Learning and Deep Learning projects. This collection is continuously evolving and serves as a reference and toolbox for personal and experimental use.
+[Smart Learn Toolbox](https://github.com/elecomexp/smart_learn_toolbox) : Utility functions and tools for Data Science, Machine Learning and Deep Learning projects. This collection is continuously evolving and serves as a reference and toolbox for personal and experimental use.
 
 ## Contributing
 
