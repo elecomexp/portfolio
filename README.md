@@ -30,7 +30,7 @@ Below is a list of some of the projects included in **this portfolio** or **othe
 
 - [API Iris Flower Model](https://github.com/elecomexp/api_iris_model) : A simple lightweight RESTful API built with Flask for deploying a machine learning model on PythonAnywhere, trained on the Iris flower dataset. The API is hosted in https://elecomexp.pythonanywhere.com/, making it accessible from any device with an internet connection.
 
-- [Deep Learning](https://github.com/elecomexp/deep_learning) : This repository contains a collection of Jupyter Notebooks exploring Deep Learning techniques with modern neural network architectures, including CNNs, Transfer Learning, Fine-Tuning, RNNs, Embeddings, NLP, preprocessing layers, and an introduction to generative AI for images.
+- [Deep Learning](https://github.com/elecomexp/deep_learning) : This repository contains a collection of Jupyter Notebooks exploring Deep Learning techniques with modern neural network architectures and workflows, including CNNs, Transfer Learning, Fine-Tuning, RNNs, Embeddings, NLP, preprocessing layers, and an introduction to generative AI for images.
 
 - [Gamma Rays Scattering](https://github.com/elecomexp/gamma_rays_scattering) : This project uses Monte Carlo simulations to study Gamma Ray transport through a medium, focusing on radiation-matter interactions and key coefficients like absorption, backscattering, and transmission.
 
